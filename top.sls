@@ -1,3 +1,5 @@
 base:
-  '*'
-    - core
+  '*':
+    - required
+    #- users
+
